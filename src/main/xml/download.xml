@@ -1,0 +1,319 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:media="http://search.yahoo.com/mrss/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     version="2.0" xsi:schemaLocation="http://www.w3.org/2005/Atom ">
+    <channel>
+        <title>
+            <![CDATA[ New Zealand Herald ]]>
+        </title>
+        <link>https://www.nzherald.co.nz</link>
+        <atom:link
+                href="https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/technology/?outputType=xml&amp;_website=nzh"
+                rel="self" type="application/rss+xml"/>
+        <description>
+            <![CDATA[ New Zealand Herald News Feed ]]>
+        </description>
+        <lastBuildDate>Wed, 20 Sep 2023 02:27:18 +0000</lastBuildDate>
+        <language>en</language>
+        <ttl>1</ttl>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <item>
+            <title>
+                <![CDATA[ Free Starlink for 40 rural schools ]]>
+            </title>
+            <link>https://www.nzherald.co.nz/business/free-starlink-for-40-rural-schools/WWIWDPMR7BFTVGVTBHP4CGB5JY/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/free-starlink-for-40-rural-schools/WWIWDPMR7BFTVGVTBHP4CGB5JY/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ Network For Learning and 2degrees partner on Ministry of Education-funded programme. ]]>
+            </description>
+            <pubDate>Wed, 20 Sep 2023 01:24:28 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/jH4amNmTRDbItUyy7FypKAO-Do4=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6IRKU5MJV5FXTM4UQ2VIYBWY2A.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ “On many occasions, we weren’t even able to mark the morning roll, or we might have only been able to have one or two computers on in a classroom at the same time" - Reno Skipper, principal of Te Kura Kaupapa Māori o Ngāringaomatariki, a school near Wellsford that was one of the first to get free Starlink under the new programme. ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/3u3t0jQLB2CFeiEcf7o3FYRt7w4=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6IRKU5MJV5FXTM4UQ2VIYBWY2A.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/R-Pw53rIHRHyX4ZN4PDljIjXdlc=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6IRKU5MJV5FXTM4UQ2VIYBWY2A.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Rocket Lab’s 41st mission launch fails, Capella Space satellite lost ]]>
+            </title>
+            <link>
+                https://www.nzherald.co.nz/business/rocket-labs-41st-mission-launch-fails-capella-space-satellite-lost/A6TNJSDEZBE55GDDVCDUTFSMVU/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/rocket-labs-41st-mission-launch-fails-capella-space-satellite-lost/A6TNJSDEZBE55GDDVCDUTFSMVU/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ Shares down 6.75 per cent. ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 18:07:27 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/S56DYhQw5FGziK56o7iEXsa-Q70=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/VNKYLPKKJBDJ7F74IQGU2DZOYA.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ Rocket Lab's failed launch attempt last night, as seen from Marine Parade, Napier. Photo / Paul Taylor, Hawkes Bay Today ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/fjyMbNMHwYYFGCoWtigtJ61MomQ=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/VNKYLPKKJBDJ7F74IQGU2DZOYA.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/UtKuVX-22nDdmyPMNoQpbppQyA0=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/VNKYLPKKJBDJ7F74IQGU2DZOYA.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Netsafe says cyberbullying costs NZ $1b, online fraud $470m - dwarfing Cert’s figure ]]>
+            </title>
+            <link>
+                https://www.nzherald.co.nz/business/netsafe-says-cyberbullying-costs-nz-1b-online-fraud-470m-dwarfing-cert-estimate/XTWQYHAXQNCQ5JWNZFZMTLNAGE/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/netsafe-says-cyberbullying-costs-nz-1b-online-fraud-470m-dwarfing-cert-estimate/XTWQYHAXQNCQ5JWNZFZMTLNAGE/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ The cost has doubled since a 2018 report; Netsafe funding and oversight changes are eyed. ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 17:00:00 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/Hnm2c_6wUKJZ4ff6wVv3RDxB2h8=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/P32QXMJL7NCFNIRZ2FXT2XEAIQ.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ The cost of cyberbullying in New Zealand has more than doubled since 2018. ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/3KcEWSwImWHcZ8k0AhWGnR9Paws=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/P32QXMJL7NCFNIRZ2FXT2XEAIQ.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/I4r8ULmovJfQCQ01Br7LkZAwgBM=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/P32QXMJL7NCFNIRZ2FXT2XEAIQ.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ How to tell if your AI is conscious ]]>
+            </title>
+            <link>https://www.nzherald.co.nz/world/how-to-tell-if-your-ai-is-conscious/VLSV4WIQ65CM5M42TOC7Y6W5HI/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/world/how-to-tell-if-your-ai-is-conscious/VLSV4WIQ65CM5M42TOC7Y6W5HI/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Oliver Whang ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ New York Times: Qualities that might indicate the presence of some presence in a machine. ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 06:00:00 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/dRUeDQR7s73k96sf3-WSIwPw2no=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Y6NLN3ROXX35CLWSZ2P5C5CLEM.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ A group of philosophers, neuroscientists and computer scientists have proposed a rubric with which to determine whether an AI system could be considered conscious. Photo / 123RF ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/PUPA37ikzxU5uqOdS0DUkxhsE3Y=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Y6NLN3ROXX35CLWSZ2P5C5CLEM.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/6FVGLNlM9SJ263MAQh247F1UKa4=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Y6NLN3ROXX35CLWSZ2P5C5CLEM.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Auckland Transport restores Hop cards, responds to ransomware gang’s US$1m demand ]]>
+            </title>
+            <link>
+                https://www.nzherald.co.nz/business/as-auckland-transport-starts-to-restore-hop-cards-ransomware-gang-offers-alleged-at-data-for-us1m-on-the-dark-web/MCUMCKOL7ZERLK6EFGBEPLV2LI/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/as-auckland-transport-starts-to-restore-hop-cards-ransomware-gang-offers-alleged-at-data-for-us1m-on-the-dark-web/MCUMCKOL7ZERLK6EFGBEPLV2LI/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ A cyber incident some customers might have wanted to continue. ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 00:05:00 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/LXqSA0owxfeX4WWJB4UpOTxRnbc=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/A2NKUJSVRXALOWIOWAUBLLAYWQ.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ A ransomware gang called Medusa has offered what it says is AT data for sale on the dark web. Image / NZ Herald ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/cH6WXsXnM9qX-XQlqUAubzeP6c0=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/A2NKUJSVRXALOWIOWAUBLLAYWQ.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/0zDbLw9oxqgMy1ZweX1X3XpdQ6c=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/A2NKUJSVRXALOWIOWAUBLLAYWQ.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Vehicle fires: What’s more dangerous - an EV or a petrol car? ]]>
+            </title>
+            <link>
+                https://www.nzherald.co.nz/business/vehicle-fires-whats-more-dangerous-an-ev-or-a-petrol-car/O4ZQ23ATMZFWJLNCKJ6E55IKM4/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/vehicle-fires-whats-more-dangerous-an-ev-or-a-petrol-car/O4ZQ23ATMZFWJLNCKJ6E55IKM4/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ Why a Nissan Leaf was cut in half. ]]>
+            </description>
+            <pubDate>Mon, 18 Sep 2023 03:56:02 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/dyTE4SeezqIgcA7F6_n5gvCCVGM=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/YJ2T4GQFEVB5DEDTEX64WNCWJI.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ The cutaway Nissan Leaf that was on display at the Christchurch Innovation Expo. Photo / Chris Keall ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/3YqoX1YF7yw1rTcGVM2mJ7sbU3k=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/YJ2T4GQFEVB5DEDTEX64WNCWJI.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/-exSMSTrIzIkyksz78-Yb5Fw6cQ=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/YJ2T4GQFEVB5DEDTEX64WNCWJI.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ iPhone 15 launch: Three ways to get a deal ]]>
+            </title>
+            <link>
+                https://www.nzherald.co.nz/business/iphone-15-launch-three-ways-to-get-a-deal/XCHTR2ULXNBF7PAJ3THIPFR4HI/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/iphone-15-launch-three-ways-to-get-a-deal/XCHTR2ULXNBF7PAJ3THIPFR4HI/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ With pricing starting at $1649, the iPhone 15 is an expensive handset. ]]>
+            </description>
+            <pubDate>Sat, 16 Sep 2023 18:50:00 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/4ShwC7KbIW0rQnzXXtObpvy2J44=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RSUNM537GRB5LCOZ27VAM75DPM.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ He's got his. Photo / Getty Images ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/y5y6QahRQ9-oCrkTPvnHkORDtoQ=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RSUNM537GRB5LCOZ27VAM75DPM.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/_Mv75nhA4ksUnSueT63gpBFfjdE=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/RSUNM537GRB5LCOZ27VAM75DPM.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ National’s tech policy: Industry loves visa, esop moves - but also sees missing elements ]]>
+            </title>
+            <link>
+                https://www.nzherald.co.nz/business/nationals-tech-policy-industry-loves-visa-esop-moves-but-also-sees-missing-elements/FUJGDLEV45DYHLEE7W6KK3QLIY/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/nationals-tech-policy-industry-loves-visa-esop-moves-but-also-sees-missing-elements/FUJGDLEV45DYHLEE7W6KK3QLIY/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ The two core elements of National’s tech policy are a hit, but missing elements too. ]]>
+            </description>
+            <pubDate>Fri, 15 Sep 2023 20:44:13 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/5G9MEYuIzse4wo6rBwOOaHCJVj0=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/B5KQN5JSAZHONIZEX5VPRC6PCA.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ National Party leader Christopher Luxon, with immigration spokeswoman Erica Stanford (left), technology spokeswoman Judith Collins and Auckland Central candidate Mahesh Muralidhar at a policy launch. Photo / Alex Burton ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/UoReqCDAhSzvAI7UhTbtG_1wcic=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/B5KQN5JSAZHONIZEX5VPRC6PCA.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/fXFiqQIP6LR33uPFGwkYm1p1_Ac=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/B5KQN5JSAZHONIZEX5VPRC6PCA.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ The fine art of naming a group chat ]]>
+            </title>
+            <link>https://www.nzherald.co.nz/lifestyle/the-fine-art-of-naming-a-group-chat/732DTEHBXFA37BC55D5QOD3JXM/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/lifestyle/the-fine-art-of-naming-a-group-chat/732DTEHBXFA37BC55D5QOD3JXM/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Alyson Krueger ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ New York Times: Name and image are often more considered than the messages themselves. ]]>
+            </description>
+            <pubDate>Thu, 14 Sep 2023 23:29:08 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/vihMzcr4gBpIiosyKspLOprwnlk=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Z42BEBORWZB3ZIPKMJQD3DQADU.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ RJ McLaughlin has developed a playbook for naming a chat: “I lead a brainstorming session, where everyone puts ideas into the chat. Then we all vote on it,” he said. “‘The’ group chat” is one of them. Photo / RJ McLaughlin via The New York Times- ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/Gyb6-oBnuHCnTQ0qi88LAFZrOA4=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Z42BEBORWZB3ZIPKMJQD3DQADU.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/g0vbpKdzV9-WCCQI-TtuTwTRg4s=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/Z42BEBORWZB3ZIPKMJQD3DQADU.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ Apple iPhone 15 launch - which rumours were true? ]]>
+            </title>
+            <link>
+                https://www.nzherald.co.nz/business/apple-event-2023-live-apple-iphone-15-launch-which-rumours-were-true/GNQD7HCOM5ELZNFUCUOWMOSHTU/
+            </link>
+            <guid isPermaLink="true">
+                https://www.nzherald.co.nz/business/apple-event-2023-live-apple-iphone-15-launch-which-rumours-were-true/GNQD7HCOM5ELZNFUCUOWMOSHTU/
+            </guid>
+            <dc:creator>
+                <![CDATA[ Chris Keall ]]>
+            </dc:creator>
+            <description>
+                <![CDATA[ More features revealed in new iPhone model - and higher prices. ]]>
+            </description>
+            <pubDate>Thu, 14 Sep 2023 22:40:43 +0000</pubDate>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/yEvOxHz2yz4ZYqIMIf7H75vFahs=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/SNGDUPNES5G5LC4J7PSLSKVYEM.jpg"
+                    type="image/jpeg" height="300" width="300"/>
+            <media:description type="plain">
+                <![CDATA[ The new iPhone 15 Pro and Pro Max have more smarts and lighter, stronger titanium cases, but the same outward design as their predecessors. ]]>
+            </media:description>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/vPbub88qjDWYneRTkZCHnVIkLNY=/800x600/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/SNGDUPNES5G5LC4J7PSLSKVYEM.jpg"
+                    type="image/jpeg" height="600" width="800"/>
+            <media:content
+                    url="https://www.nzherald.co.nz/resizer/-07yW_U_0IJOOI545v1-73GemuI=/460x230/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/SNGDUPNES5G5LC4J7PSLSKVYEM.jpg"
+                    type="image/jpeg" height="230" width="460"/>
+        </item>
+    </channel>
+</rss>
